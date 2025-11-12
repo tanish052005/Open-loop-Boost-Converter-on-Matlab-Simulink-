@@ -1,2 +1,3 @@
-# Open-loop-Boost-Converter-on-Matlab-Simulink-
-Simulates an open-loop DC–DC boost converter in MATLAB/Simulink to step up a DC input voltage using an inductor, diode, and switch. Demonstrates the voltage boosting principle and relationship between duty cycle and output voltage.
+This project models an open-loop DC–DC boost converter using MATLAB/Simulink to demonstrate the step-up conversion of a DC input voltage.
+The simulation includes key components such as an inductor, switch (MOSFET), diode, and output capacitor, showing how the duty cycle controls the output voltage level.
+It helps in understanding the boost converter operation, waveform analysis, and the effect of switching parameters on converter performance.
